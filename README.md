@@ -1,5 +1,5 @@
 # Python para Data Science
-Autores: Antoniel
+Autores: Antoniel Geografia
 
 Versão: 1
 
